@@ -1,2 +1,2 @@
 # picgo
-images update
+图床
